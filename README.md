@@ -5,5 +5,8 @@
 ## Install the project dependencies by running the following commands in the IDE comsole
 
 ## composer update
+## composer migrate db:seed 
+ 
+# /////////////////////// OR /////////////////////////////////
+## open your php admin and import the users.sql from the db folder of the project
 
-## composer migrate db:seed
